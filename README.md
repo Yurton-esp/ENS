@@ -21,6 +21,5 @@ Las contribuciones son bienvenidas. Puedes aportar documentación, ejemplos, pla
 ## Recursos de interés
 
 - [ENS - Portal Administración Digital](https://administracionelectronica.gob.es/pae_Home/pae_Estrategias/ENS.html)
-- [Normativa ENS (BOE)](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-24517)
-
+- Real Decreto 311/2022, de 3 de mayo, por el que se regula el Esquema Nacional de Seguridad. https://www.boe.es/eli/es/rd/2022/05/03/311/con
 ---
